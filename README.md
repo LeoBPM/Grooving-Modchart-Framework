@@ -100,7 +100,7 @@ Helpers :
 Example :
 ---
 if u wanna do tween effect then type this
-- doTweenX('tag', 'modifierName', intensity, time, 'ease') // same with other Tweens
+- doTween(X, Y, etc)('tag', 'modifierName', intensity, time, 'ease') // same with other Tweens
 
 if u wanna a instead activation then do this
 - setProperty('(modifiername).(x, y, etc)', intensity)
